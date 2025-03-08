@@ -15,4 +15,4 @@ title: "Your Name"
 ## 🏆 Awards & Honors
 - **Award Name**, Organization, Year.
 
-**Contact**: [your.email@example.com](mailto:your.email@example.com) | [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+**Contact**: [your.email@example.com](mailto:fepe.ig@gmail.com) | [GitHub](https://github.com/fede-pe) | [LinkedIn](https://www.linkedin.com/in/federicoig) | [ORCID](https://orcid.org/0000-0003-2289-2364)
