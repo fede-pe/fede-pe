@@ -1,18 +1,36 @@
----
-title: "Your Name"
----
-
-# Welcome to My Professional Page
-
-## 📖 Publications
+## Publications in international journals
 - **Title 1**, Author(s), Conference/Journal, Year. [🔗 Link](#)
 - **Title 2**, Author(s), Conference/Journal, Year. [🔗 Link](#)
 
-## 🎤 Conferences
+## Publications in books
+- **Title 1**, Author(s), Conference/Journal, Year. [🔗 Link](#)
+- **Title 2**, Author(s), Conference/Journal, Year. [🔗 Link](#)
+
+## Publications in International Journals
+- C.O.S. Sorzano, **F. de Isidro-Gómez**, E. Fernández-Giménez, D. Herreros, S. Marco, J.M. Carazo, C. Messaoudi, “Improvements on marker-free images alignment for electron tomography,” Journal of Structural Biology: X, vol. 4, p. 100037, 2020.
+- M. Martínez, A. Jiménez-Moreno, D. Maluenda, E. Ramírez-Aportela, R. Melero, A. Cuervo, P. Conesa, L. Del Caño, Y.C. Fonseca, R. Sánchez-García, D. Strelak, J.J. Conesa, E. Fernández-Giménez, **F. de Isidro**, C.O.S. Sorzano, J.M. Carazo, R. Marabini, “Integration of cryo-em model building software in scipion,” Journal of Chemical Information and Modeling, vol. 60, no. 5, pp. 2533–2540, 2020.
+- C.O.S. Sorzano, A. Jiménez-Moreno, D. Maluenda, E. Ramírez-Aportela, M. Martínez, A. Cuervo, R. Melero, P. Conesa, R. Sánchez-García, D. Strelak, J. Filipovic, E. Fernández-Giménez, **F. P. de Isidro-Gómez**, D. Herreros, P. Conesa, L. del Caño, Y. Fonseca, J. Jiménez de la Morena, J.R. Macías, P. Losada, R. Marabini, J.M. Carazo, “Image processing in cryo-electron microscopy of single particles: the power of combining methods,” in Structural Proteomics: High-Throughput Methods, pp. 257–289, Springer, 2021.
+- A. I. Gómez de Castro, M. Rheinstädter, P. Clancy, M. Castilla, F. de Isidro, J. I. Larruquert, T. de Lis-Sánchez, J. Britten, M. Cabero Piris, **F. P. de Isidro-Gómez**. “Graphite to diamond transition induced by photoelectric absorption of ultraviolet photons,” Scientific Reports, vol. 11, no. 1, p. 2492, 2021.
+- C.O.S. Sorzano, D. Semchonok, S.C. Lin, J.L. Vilas, A. Jimenez-Moreno, M. Gragera, D. Maluenda, M. Martinez, E. Ramirez-Aportela, R. Melero, A. Cuervo, P. Conesa, L. del Caño, Y.C. Fonseca, R. Sánchez-García, D. Strelak, E. Fernández-Giménez, **F. de Isidro**, P. Kastritis, R. Marabini, B. Bruce, J.M. Carazo, “Algorithmic robustness to preferred orientations in single particle analysis by cryoem,” Journal of Structural Biology, vol. 213, no. 1, p. 107695, 2021.
+- A. Jiménez-Moreno, L. del Caño, M. Martínez, E. Ramírez-Aportela, A. Cuervo, R. Melero, R. Sánchez-García, D. Strelak, E. Fernández-Giménez, **F. de Isidro-Gómez**, D. Herreros, P. Conesa, Y. Fonseca, D. Maluenda, J. Jiménez de la Morena, J.R. Macías, P. Losana, R. Marabini, J.M. Carazo, C.O.S. Sorzano, “Cryo-em and single-particle analysis with scipion,” JoVE (Journal of Visualized Experiments), no. 171, p. e62261, 2021.
+- S. Sorrentino, J. Conesa, A. Cuervo, R. Melero, B. Martins, M.E. Fernández-Giménez, **F. de Isidro**, J. Jiménez, J.D. Studt, C.O.S. Sorzano, M. Eibauer, J.M. Carazo, O. Medalia. “Structural analysis of receptors and actin polarity in platelet protrusions,”Proceedings of the National Academy of Sciences, vol. 118, no. 37, p. e2105004118, 2021.
+- D. Strelak, A. Jiménez-Moreno, J.L. Vilas, E. Ramírez-Aportela, R. Sánchez-García, D. Maluenda, J. Vargas, D. Herreros, E. Fernández-Giménez, **F. de Isidro-Gómez**, J. Horacek, D. Myska, M. Horacek, P. Conesa, Y.C. Fonseca-Reyna, J. Jiménez, M. Martínez, M. Harastani, S. Jonic, J. Filipovic, R. Marabini, J.M. Carazo, C.O.S. Sorzano, “Advances in xmipp for cryo–electron microscopy: From xmipp to scipion,” Molecules, vol. 26, no. 20, 2021.
+- C.O.S. Sorzano, A. Jimenez-Moreno, D. Maluenda, M. Martinez, E. Ramirez-Aportela, R. Melero, A. Cuervo, J. Conesa, J. Filipovic, P.Conesa, L. del Caño, Y.C. Fonseca, J. Jiménez-de la Morena, P. Losana, R. Sáchez-García, D. Strelak, E. Fernandez-Gimenez, **F. de Isidro**, D.Herreros, J.L. Vilas, R. Marabini, J.M. Carazo, “On bias, variance, overfitting, gold standard and consensus in single-particle analysis by cryo-electron microscopy,” Acta Crystallographica Section D, vol. 78, pp. 410–423, Apr 2022.
+- C.O.S. Sorzano, J.L. Vilas, E. Ramírez-Aportela, D. del Hoyo, D. Herreros, E. Fernandez-Giménez, D. Marchán, **F. de Isidro-Gómez**, J.R. Macías, I. Sánchez, L. del Caño, Y. Fonseca-Reyna, P. Conesa, A. García-Mena, J. Burguet, J. García Condado, J. Méndez García, M. Martínez, A. Muñoz Barrutia, R. Marabini, J. Vargas, J.M. Carazo, “Image processing tools for the validation of cryoem maps,” Faraday Discussions, vol. 240, pp. 210–227, 2022.
+- J. Jimenez de la Morena, P. Conesa, Y. Fonseca, **F. de Isidro-Gómez**, D. Herreros, E. Fernandez-Gimenez, D. Strelak, E. Moebel, T. Buchholz, F. Jug, A. Martinez-Sanchez, M. Harastani, S. Jonic, J. Conesa, A. Cuervo, P. Losana, I. Sanchez, M. Iceta, L. del Cano, M. Gragera, R. Melero, G. Sharov, D. Casta˜no-Diez, A. Koster, J. Piccirillo, J. Vilas, J. Oton, R. Marabini, C. Sorzano, and J. Carazo, “Scipiontomo: Towards cryo-electron tomography software integration, reproducibility, and validation,” Journal of Structural Biology, vol. 214, no. 3, p. 107872, 2022.
+- P. Conesa, Y. C. Fonseca, J. J. de la Morena, G. Sharov, J. M. de la Rosa-Trevin, A. Cuervo, A. G. Mena, B. R. de Francisco, D. Del Hoyo, D. Herreros, D. Marchan, D. Strelak, E. Fernández-Giménez, E. Ramírez-Aportela, **F. P. de Isidro-Gómez**, G. Sharov, I. Sánchez, J. Krieger, J. Jiménez de la Morena, J.L. Vilas, J.M. de la Rosa-Trevín, L. del Caño, M. Gragera, M. Iceta, M. Martínez, P. Losana, R. Melero, Y.C. Fonseca, R. Marabini, J.M. Carazo, C.O.S. Sorzano, “Scipion3: A workflow engine for cryo-electron microscopy image processing and structural biology,” Biological Imaging, vol. 3, p. e13, 2023.
+- **F. P. de Isidro-Gómez**, J. Vilas, P. Losana, J. Carazo, and C. O. S. Sorzano, “A deep learning approach to the automatic detection of alignment errors in cryo-electron tomographic reconstructions”, Journal of Structural Biology, vol. 216, no. 1, p. 108056, 2024.
+- **F. P. de Isidro-Gómez**, J. Vilas, J. Carazo, and C. Sorzano, “Automatic detection of alignment errors in cryo-electron tomography”, Journal of Structural Biology, vol. 217, no. 1, p. 108153, 2025.
+
+
+
+## Conference Contributions
 - **Talk Title 1**, Event, Year.
 - **Talk Title 2**, Event, Year.
 
-## 🏆 Awards & Honors
+## Awards & Honors
 - **Award Name**, Organization, Year.
 
-**Contact**: [your.email@example.com](mailto:fepe.ig@gmail.com) | [GitHub](https://github.com/fede-pe) | [LinkedIn](https://www.linkedin.com/in/federicoig) | [ORCID](https://orcid.org/0000-0003-2289-2364)
+**Contact**:
+Astex pharmaceuticals: [your.email@example.com](mailto:fepe.ig@gmail.com) 
+[GitHub](https://github.com/fede-pe) | [LinkedIn](https://www.linkedin.com/in/federicoig) | [ORCID](https://orcid.org/0000-0003-2289-2364)
