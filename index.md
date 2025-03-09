@@ -1,7 +1,3 @@
-## Publications in international journals
-- **Title 1**, Author(s), Conference/Journal, Year. [🔗 Link](#)
-- **Title 2**, Author(s), Conference/Journal, Year. [🔗 Link](#)
-
 ## Publications in International Journals
 1. C.O.S. Sorzano, **F. de Isidro-Gómez**, E. Fernández-Giménez, D. Herreros, S. Marco, J.M. Carazo, C. Messaoudi, “Improvements on marker-free images alignment for electron tomography,” Journal of Structural Biology: X, vol. 4, p. 100037, 2020.
 2. M. Martínez, A. Jiménez-Moreno, D. Maluenda, E. Ramírez-Aportela, R. Melero, A. Cuervo, P. Conesa, L. Del Caño, Y.C. Fonseca, R. Sánchez-García, D. Strelak, J.J. Conesa, E. Fernández-Giménez, **F. de Isidro**, C.O.S. Sorzano, J.M. Carazo, R. Marabini, “Integration of cryo-em model building software in scipion,” Journal of Chemical Information and Modeling, vol. 60, no. 5, pp. 2533–2540, 2020.
@@ -27,8 +23,18 @@
 3. J. Jiménez de la Morena, P. Conesa, Y.C. Fonseca, **F.P. de Isidro-Gómez**, D. Herreros, E. Fernández-Giménez, A. Cuervo, P. Losana, J.M. Carazo, C.O.S. Sorzano, J.L. Vilas. ScipionTomo: a standard framework for cryoelectron tomography image processing. 9th Electron Tomography Congress (2022).
 4. **F.P. de Isidro-Gómez**. Automatic detection of alignment errors in cryo-electron tomographic reconstructions. MFS2023, at International Iberian Nanotechnology Laboratory (2023).
 
-## Awards & Honors
-- **Award Name**, Organization, Year.
+## Teaching
+1. Instructor of the course "Cryo-electron Tomography". Biocomputing Unit (BCU) from National Center for Biotechnology (CNB-CSIC) (2021).
+2. Instructor of the course "Cryo-electron Tomography". Weizmann Institute of Science, Israel (2022).
+3. Lecturer of the course "Digital Systems" (6 ECTS). Computer Science. Universidad CEU San Pablo (2022).
+4. Instructor of the course "Cryo-electron Tomography". Biocomputing Unit (BCU) from National Center for Biotechnology (CNB-CSIC) (2022).
+5. Lecturer of the course "Programming I" (6 ECTS). Computer Science. Universidad CEU San Pablo (2022).
+6. Instructor of the course “Fronteras en el estudio de las Biomoléculas”. Master en Biomoléculas y Dinámica Celular, Universidad Autónoma de Madrid (UAM) (2023).
+7. Lecturer of the course "Digital Systems" (6 ECTS). Computer Science. Universidad CEU San Pablo (2023).
+8. Instructor of the course "Cryo-electron Tomography". Biocomputing Unit (BCU) from National Center for Biotechnology (CNB-CSIC) (2023).
+9. Lecturer of the course "Programming I" (6 ECTS). Computer Science. Universidad CEU San Pablo (2023).
+
+## Supervised works
 
 **Contact**:
 Astex pharmaceuticals: [your.email@example.com](mailto:fepe.ig@gmail.com) 
