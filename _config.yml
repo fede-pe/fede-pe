@@ -1,4 +1,17 @@
 title: "Federico P. de Isidro Gómez"
 description: "Curriculum vitae"
 remote_theme: sharu725/online-cv
+
 logo: /Images/profilePicture.jpg
+
+# Navigation configuration
+header_pages:
+  - index.md
+  - contact.md
+  - publications.md
+
+# Social links
+social_links:
+  - { icon: "github", link: "https://github.com/fede-pe" }
+  - { icon: "linkedin", link: https://www.linkedin.com/in/federicoig" }
+  - { icon: "orcid", link: https://orcid.org/0000-0003-2289-2364" }
