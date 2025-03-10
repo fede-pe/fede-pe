@@ -1,3 +1,8 @@
+Welcome to my site! I am Fede, a scientist dedicated to applying engineering solutions to the fields of biology and health. My particular interests lie in image processing, data analysis, and tackling challenging problems in general. My expertise is focused on structural biology, where I have extensive experience in algorithm development for cryo-electron microscopy, culminating in a PhD in cryo-electron tomography from the Spanish National Center for Biotechnology (CNB-CSIC). Currently, I am a postdoctoral researcher based in Cambridge at Astex Pharmaceuticals, where I am pushing the detectability limits of cryo-electron microscopy.
+
+I am interested in expanding my knowledge to new techniques beyond structural biology that can benefit from improved data processing. Additionally, I am passionate about collaborating with other scientists from any field to address interesting problems for the community.
+
+
 ## Publications in International Journals
 1. C.O.S. Sorzano, **F. de Isidro-Gómez**, E. Fernández-Giménez, D. Herreros, S. Marco, J.M. Carazo, C. Messaoudi, “Improvements on marker-free images alignment for electron tomography,” Journal of Structural Biology: X, vol. 4, p. 100037, 2020.
 2. M. Martínez, A. Jiménez-Moreno, D. Maluenda, E. Ramírez-Aportela, R. Melero, A. Cuervo, P. Conesa, L. Del Caño, Y.C. Fonseca, R. Sánchez-García, D. Strelak, J.J. Conesa, E. Fernández-Giménez, **F. de Isidro**, C.O.S. Sorzano, J.M. Carazo, R. Marabini, “Integration of cryo-em model building software in scipion,” Journal of Chemical Information and Modeling, vol. 60, no. 5, pp. 2533–2540, 2020.
