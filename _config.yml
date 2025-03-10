@@ -1,6 +1,6 @@
 title: "Federico P. de Isidro Gómez"
 description: "Curriculum vitae"
-remote_theme: sharu725/online-cv
+remote_theme: orderedlist/minimal
 logo: /Images/profilePicture.jpg
 plugins:
   - jekyll-remote-theme
