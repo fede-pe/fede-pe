@@ -1,6 +1,6 @@
 title: "Federico P. de Isidro Gómez"
 description: "Curriculum vitae"
-remote_theme: murraco/jekyll-theme-minimal-resume
+remote_theme: gauravgrav/jekyll-academic
 logo: /Images/profilePicture.jpg
 plugins:
   - jekyll-remote-theme
