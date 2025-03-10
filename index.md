@@ -38,5 +38,6 @@
 1. Daniel Marchán Torres “Deep Learning model to estimate the defocus in Cryogenic Electron Microscopy” Master Thesis, University of Navarra (2021).
 
 **Contact**:
-Astex pharmaceuticals: [federico.pdeisidro@astx.com](mailto:federico.pdeisidro@astx.com) 
+Astex pharmaceuticals: [federico.pdeisidro@astx.com](mailto:federico.pdeisidro@astx.com)
+
 [GitHub](https://github.com/fede-pe) | [LinkedIn](https://www.linkedin.com/in/federicoig) | [ORCID](https://orcid.org/0000-0003-2289-2364)
