@@ -3,7 +3,7 @@ layout: default
 title: "Federico P. de Isidro Gómez"
 ---
 
-# Welcome to My CV!
+# Welcome to!
 
 Welcome to my site! I am Fede, a scientist dedicated to applying engineering solutions to the fields of biology and health. My particular interests lie in image processing, data analysis, and tackling challenging problems in general. My expertise is focused on structural biology, where I have extensive experience in algorithm development for cryo-electron microscopy, culminating in a PhD in cryo-electron tomography from the Spanish National Center for Biotechnology (CNB-CSIC). Currently, I am a postdoctoral researcher based in Cambridge at Astex Pharmaceuticals, where I am pushing the detectability limits of cryo-electron microscopy.
 
