@@ -124,17 +124,12 @@
       </li>
       {% endif %}
 
-      {%- if sidebar.ORCID -%}
-      <li class="list-inline-item">
-        <a href="https://orcid.org/{{ site.social-network-links.ORCID }}" title="ORCID">
-          <span class="fa-stack fa-lg" aria-hidden="true">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
-          </span>
-          <span class="sr-only">ORCID</span>
-        </a>
+      {% if sidebar.orcid %}
+      <li class="orcid"><i class="fab fa-orcid"></i>
+        <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank">{{ sidebar.orcid }}</a>
       </li>
-     {%- endif -%}
+      {% endif %}
+      
   
     </ul>
   </div><!--//contact-container-->  
