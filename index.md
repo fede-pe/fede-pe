@@ -3,14 +3,14 @@ layout: default
 title: "Federico P. de Isidro Gómez"
 ---
 
-# Welcome to my site!
+## Welcome to my site!
 
 I am Fede, a scientist dedicated to applying engineering solutions to the fields of biology and health. My particular interests lie in image processing, data analysis, and tackling challenging problems in general. My expertise is focused on structural biology, where I have extensive experience in algorithm development for cryo-electron microscopy, culminating in a PhD in cryo-electron tomography from the Spanish National Center for Biotechnology (CNB-CSIC). Currently, I am a postdoctoral researcher based in Cambridge at Astex Pharmaceuticals, where I am pushing the detectability limits of cryo-electron microscopy.
 
 I am interested in applying my knowledge to new problems in structural biology and expanding my understanding to techniques that can benefit from improved data processing. I am passionate about collaborating with other scientists from any field to address interesting problems for the community.
 
 
-## Publications in International Journals
+### Publications in International Journals
 1. C.O.S. Sorzano, **F. de Isidro-Gómez**, E. Fernández-Giménez, D. Herreros, S. Marco, J.M. Carazo, C. Messaoudi, “Improvements on marker-free images alignment for electron tomography,” Journal of Structural Biology: X, vol. 4, p. 100037, 2020.
 2. M. Martínez, A. Jiménez-Moreno, D. Maluenda, E. Ramírez-Aportela, R. Melero, A. Cuervo, P. Conesa, L. Del Caño, Y.C. Fonseca, R. Sánchez-García, D. Strelak, J.J. Conesa, E. Fernández-Giménez, **F. de Isidro**, C.O.S. Sorzano, J.M. Carazo, R. Marabini, “Integration of cryo-em model building software in scipion,” Journal of Chemical Information and Modeling, vol. 60, no. 5, pp. 2533–2540, 2020.
 3. A. I. Gómez de Castro, M. Rheinstädter, P. Clancy, M. Castilla, F. de Isidro, J. I. Larruquert, T. de Lis-Sánchez, J. Britten, M. Cabero Piris, **F.P. de Isidro-Gómez**. “Graphite to diamond transition induced by photoelectric absorption of ultraviolet photons,” Scientific Reports, vol. 11, no. 1, p. 2492, 2021.
@@ -25,17 +25,17 @@ I am interested in applying my knowledge to new problems in structural biology a
 12. **F. P. de Isidro-Gómez**, J.L. Vilas, P. Losana, J.M. Carazo, and C.O.S. Sorzano, “A deep learning approach to the automatic detection of alignment errors in cryo-electron tomographic reconstructions”, Journal of Structural Biology, vol. 216, no. 1, p. 108056, 2024.
 13. **F. P. de Isidro-Gómez**, J.L. Vilas, J.M. Carazo, and C.O.S. Sorzano, “Automatic detection of alignment errors in cryo-electron tomography”, Journal of Structural Biology, vol. 217, no. 1, p. 108153, 2025.
 
-## Publications in Books
+### Publications in Books
 1. C.O.S. Sorzano, A. Jiménez-Moreno, D. Maluenda, E. Ramírez-Aportela, M. Martínez, A. Cuervo, R. Melero, P. Conesa, R. Sánchez-García, D. Strelak, J. Filipovic, E. Fernández-Giménez, **F. P. de Isidro-Gómez**, D. Herreros, P. Conesa, L. del Caño, Y. Fonseca, J. Jiménez de la Morena, J.R. Macías, P. Losada, R. Marabini, J.M. Carazo, “Image processing in cryo-electron microscopy of single particles: the power of combining methods,” in Structural Proteomics: High-Throughput Methods, pp. 257–289, Springer, 2021.
 2. **F.P. de Isidro-Gómez**,  J. L. Vilas, E. Fernández-Giménez, O.L.  Zarrabeitia, D. Marchán, M. Iceta, D. Herreros, P. Conesa, Y.C. Fonseca, J. Jiménez de la Morena, A. Cuervo, B. Rodríguez-de-Francisco, P. Losana, J.M. Carazo, C.O.S. Sorzano, "Validation methods in cryoelectron tomography". Book chapter from: Hanein, D. and Volkmann, N. "Cryo-electron tomography". Elsevier., 2025. ISBN: 9780443188299.
 
-## Conference Contributions
+### Conference Contributions
 1. J. Jiménez, **F. de Isidro**, E. Fernández-Giménez, D. Herreros, Y. Fonseca, P. Conesa, A. Cuervo, J. Conesa, R. Melero, J.M. Carazo, C.O.S. Sorzano. Electron Tomography Workflows using Scipion. Microscopy and microanalysis (2021).
 2. C.O.S. Sorzano, A. Jiménez-Moreno, E. Ramírez-Aportela, J. Krieger, J. Filipovic, P. Conesa, Y.C. Fonseca, J. Jiménez-de la Morena, D. Strelak, E. Fernández-Giménez, **F. de Isidro**, D. Herreros, D. Marchán, J.L. Vilas, R. Marabini, J.M. Carazo. Why is a single execution of a single algorithm not enough in CryoEM? Microscopy at the Frontiers of Science (2021).
 3. J. Jiménez de la Morena, P. Conesa, Y.C. Fonseca, **F.P. de Isidro-Gómez**, D. Herreros, E. Fernández-Giménez, A. Cuervo, P. Losana, J.M. Carazo, C.O.S. Sorzano, J.L. Vilas. ScipionTomo: a standard framework for cryoelectron tomography image processing. 9th Electron Tomography Congress (2022).
 4. **F.P. de Isidro-Gómez**. Automatic detection of alignment errors in cryo-electron tomographic reconstructions. MFS2023, at International Iberian Nanotechnology Laboratory (2023).
 
-## Teaching
+### Teaching
 1. Instructor of the course "Cryo-electron Tomography Image Processing". Instruct Image Processing Center from National Center for Biotechnology (CNB-CSIC) (2021).
 2. Instructor of the course "IMpaCT Cryo-electron Tomography". Weizmann Institute of Science, Israel (2022).
 3. Lecturer of the course "Digital Systems" (6 ECTS). Computer Science. Universidad CEU San Pablo (2022).
@@ -46,10 +46,5 @@ I am interested in applying my knowledge to new problems in structural biology a
 8. Instructor of the course "Cryo-electron Tomography Image Processing". Instruct Image Processing Center from National Center for Biotechnology (CNB-CSIC) (2023).
 9. Lecturer of the course "Programming I" (6 ECTS). Computer Science. Universidad CEU San Pablo (2023).
 
-## Supervised works
+### Supervised works
 1. Daniel Marchán Torres “Deep Learning model to estimate the defocus in Cryogenic Electron Microscopy” Master Thesis, University of Navarra (2021).
-
-**Contact**:
-Astex pharmaceuticals: [federico.pdeisidro@astx.com](mailto:federico.pdeisidro@astx.com)
-
-[GitHub](https://github.com/fede-pe) | [LinkedIn](https://www.linkedin.com/in/federicoig) | [ORCID](https://orcid.org/0000-0003-2289-2364)
