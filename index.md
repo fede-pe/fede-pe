@@ -10,22 +10,32 @@ I am Fede, a scientist dedicated to applying engineering solutions to the fields
 I am interested in applying my knowledge to new problems in structural biology and expanding my understanding to techniques that can benefit from improved data processing. I am passionate about collaborating with other scientists from any field to address interesting problems for the community.
 
 ### Experience
-**[Job Title]**
-**[Company Name]**  
-[Location] | [Start Date] – [End Date or "Present"]
 
-- **Job Description**:  
-  [Brief description of your role and key responsibilities.]
-  
-- **Key Achievements**:  
-  - [Achievement or project #1]
-  - [Achievement or project #2]
-  - [Achievement or project #3]
-  
-- **Technologies and Tools Used**:  
-  - [Technology/Tool #1]
-  - [Technology/Tool #2]
-  - [Technology/Tool #3]
+**Astex Pharmaceuticals**  
+- **Postdoctoral Researcher**  
+  Cambridge | Apr. 2024 – Present
+
+---
+
+**National Center for Biotechnology (CNB-CSIC)**  
+- **PhD Candidate**  
+  Madrid | Oct. 2020 – Present  
+  PhD Thesis: "Validation Methods in Cryo-Electron Tomography"
+
+- **Assistant Research Scientist**  
+  Madrid | Apr. 2019 – Oct. 2020  
+  Master Thesis: "Algorithm Automatization for Tilt-Series Alignment and Tomogram Reconstruction in Cryo-Electron Tomography"
+
+- **Intern**  
+  Madrid | Oct. 2018 – Apr. 2019  
+  Bachelor Thesis: "Image Processing Algorithms for the Determination of Optical Aberrations of an Electron Microscope"
+
+---
+
+**Universidad CEU San Pablo**  
+- **Part-time Lecturer**  
+  Madrid | Jan. 2022 – Feb. 2024  
+  Lecturer in Computer Science Bachelor of Digital Systems and Programming courses.
 
 ---
 
