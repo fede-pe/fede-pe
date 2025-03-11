@@ -36,29 +36,29 @@ I am interested in applying my knowledge to new problems in structural biology a
 
 
 ### Academics
-**Masters in Biophysics**
+**Masters in Biophysics**  
 **Universidad Autónoma de Madrid**  
-Madrid | Sep. 2019 – Jun. 2020
+Madrid | Sep. 2019 – Jun. 2020  
 Master Thesis: "Algorithm Automatization for Tilt-Series Alignment and Tomogram Reconstruction in Cryo-Electron Tomography"
 
-**Bachelor in Bioengineering**
+**Bachelor in Bioengineering**  
 **Universidad CEU San Pablo**  
-Madrid | Sep. 2013 – Jun. 2019
+Madrid | Sep. 2013 – Jun. 2019  
 Bachelor Thesis: "Image Processing Algorithms for the Determination of Optical Aberrations of an Electron Microscope"
 
-**Bachelor in Electrical engineering**
+**Bachelor in Electrical engineering**  
 **Universidad CEU San Pablo**  
-Madrid | Sep. 2013 – Feb. 2019
+Madrid | Sep. 2013 – Feb. 2019  
 Bachelor Thesis: "Automatic speech recognition using Hidden Markov Models"
 
-**Bachelor in Bioengineering**
+**Bachelor in Bioengineering**  
 **University of California San Diego (UCSD)**  
-Madrid | Sep. 2016 – Jun. 2017
+Madrid | Sep. 2016 – Jun. 2017  
 Academic exchange
 
-**Bachelor in Computer science**
+**Bachelor in Computer science**  
 **University of California San Diego (UCSD)**  
-Madrid | Sep. 2016 – Jun. 2017
+Madrid | Sep. 2016 – Jun. 2017  
 Academic exchange
 
 
