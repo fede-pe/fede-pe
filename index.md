@@ -9,6 +9,47 @@ I am Fede, a scientist dedicated to applying engineering solutions to the fields
 
 I am interested in applying my knowledge to new problems in structural biology and expanding my understanding to techniques that can benefit from improved data processing. I am passionate about collaborating with other scientists from any field to address interesting problems for the community.
 
+### Experience
+**[Job Title]**
+**[Company Name]**  
+[Location] | [Start Date] – [End Date or "Present"]
+
+- **Job Description**:  
+  [Brief description of your role and key responsibilities.]
+  
+- **Key Achievements**:  
+  - [Achievement or project #1]
+  - [Achievement or project #2]
+  - [Achievement or project #3]
+  
+- **Technologies and Tools Used**:  
+  - [Technology/Tool #1]
+  - [Technology/Tool #2]
+  - [Technology/Tool #3]
+
+---
+
+### Academics
+**[Degree Title]**
+**[Institution Name]**  
+[Location] | [Start Date] – [End Date]
+
+- **Description**:  
+  [Brief description of the program and key areas of focus.]
+
+- **Thesis/Dissertation Title**:  
+  "[Title of Thesis or Dissertation]"
+
+- **Key Achievements**:  
+  - [Achievement or project #1]
+  - [Achievement or project #2]
+  - [Achievement or project #3]
+
+- **Technologies and Tools Used**:  
+  - [Technology/Tool #1]
+  - [Technology/Tool #2]
+
+---
 
 ### Publications in International Journals
 1. C.O.S. Sorzano, **F. de Isidro-Gómez**, E. Fernández-Giménez, D. Herreros, S. Marco, J.M. Carazo, C. Messaoudi, “Improvements on marker-free images alignment for electron tomography,” Journal of Structural Biology: X, vol. 4, p. 100037, 2020.
