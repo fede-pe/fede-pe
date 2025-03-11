@@ -12,6 +12,10 @@ sidebar:
   tagline: Postdoctoral researcher
   avatar: profilePicture.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
+  # - { icon: "github", link: "https://github.com/fede-pe" }
+  # - { icon: "linkedin", link: https://www.linkedin.com/in/federicoig" }
+  # - { icon: "orcid", link: https://orcid.org/0000-0003-2289-2364" }
+
   # Sidebar links
   email: example@email.com
   phone: 012 345 6789
