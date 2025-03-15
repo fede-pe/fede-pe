@@ -9,7 +9,6 @@ I am eager to apply my knowledge to new problems in structural biology and explo
 
 
 ### Experience
-
 **Astex Pharmaceuticals**  
 - **Postdoctoral Researcher**  
   Cambridge | Apr. 2024 – Present
